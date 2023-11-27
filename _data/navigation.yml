@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Services"
       section: services
     - title: "Work Experience"
-      section: portfolio
+      section: workexperience
     - title: "About"
       section: about
     - title: "Timeline"
