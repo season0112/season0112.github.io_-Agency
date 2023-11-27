@@ -34,7 +34,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Work Experience"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: workexperience
     closebutton: "Close Project"
 
   timeline:
